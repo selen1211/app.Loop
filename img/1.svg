@@ -1,0 +1,33 @@
+<svg width="58" height="58" viewBox="0 0 58 58" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="odpymma00a">
+            <stop stop-color="#F7F7F7" offset="0%"/>
+            <stop stop-color="#E2F5FF" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="daii3bquyb">
+            <stop stop-color="#23B45F" offset="0%"/>
+            <stop stop-color="#7562FF" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="n7cmbn9xjc">
+            <stop stop-color="#47FF93" offset="0%"/>
+            <stop stop-color="#7562FF" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="7dgnzwclid">
+            <stop stop-color="#7562FF" offset="0%"/>
+            <stop stop-color="#70A988" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="ti1buym8ne">
+            <stop stop-color="#7562FF" offset="0%"/>
+            <stop stop-color="#ABFFCE" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g transform="translate(.2 .204)" fill="none" fill-rule="evenodd">
+        <circle fill="url(#odpymma00a)" cx="28.8" cy="28.8" r="28.8"/>
+        <g fill-rule="nonzero">
+            <path fill="url(#daii3bquyb)" d="m9.439 0-.206.7v20.334l.206.206 9.438-5.58z" transform="translate(19.358 12.749)"/>
+            <path fill="url(#n7cmbn9xjc)" d="M9.439 0 0 15.66l9.439 5.58v-9.87z" transform="translate(19.358 12.749)"/>
+            <path fill="url(#7dgnzwclid)" d="m9.439 23.027-.117.142v7.242l.117.34 9.444-13.3z" transform="translate(19.358 12.749)"/>
+            <path fill="url(#ti1buym8ne)" d="M9.439 30.751v-7.724L0 17.451z" transform="translate(19.358 12.749)"/>
+        </g>
+    </g>
+</svg>
